@@ -1,0 +1,13 @@
+<link rel="import"
+      href="bower_components/polymer/polymer.html">
+
+<script>
+  // register a new element called notes
+  Polymer({
+    is: "note-element",
+    // add a callback to the element's prototype
+    ready: function() {
+	    this.textContent = "<p> i'm proto element two! </p>"
+    }
+  });
+</script>

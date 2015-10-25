@@ -1,0 +1,22 @@
+{
+  "name": "Poly",
+  "version": "0.0.0",
+  "authors": [
+    "irwinfv <irwinfv@gmail.com>"
+  ],
+  "description": "This is a hello world project for learning polymer.",
+  "main": "poly",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
